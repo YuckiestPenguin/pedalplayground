@@ -33838,13 +33838,13 @@
 		"Height": 4.68,
 		"Image": "melo-tone-labs-silent-bee-overdrive.png"
 	},
-  {
-    "Brand": "Melo Tone Labs",
-    "Name": "Silent Bee Overdrive - Core",
-    "Width": 2.65,
-    "Height": 5.1,
-    "Image": "melo-tone-labs-silent-bee-overdrive-core.png"
-  },
+    {
+      "Brand": "Melo Tone Labs",
+      "Name": "Silent Bee Overdrive - Core",
+      "Width": 2.65,
+      "Height": 5.1,
+      "Image": "melo-tone-labs-silent-bee-overdrive-core.png"
+    },
 	{
 		"Brand": "MeloAudio",
 		"Name": "EXP-001",
